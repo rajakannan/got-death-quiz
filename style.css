@@ -51,6 +51,16 @@ body {
   padding-left: 15px;
 }
 
+.tweet-block {
+  margin-top: 30px;
+}
+
+.game-over .tweet-icon {
+  margin-left: 10px;
+  border-radius: 4px;
+  vertical-align: bottom;
+}
+
 .sub-text {
   color: #fff;
   font-size: 28px;
